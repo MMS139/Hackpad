@@ -18,9 +18,11 @@ The schematic was designed on KiCad, and used the OPL KiCad library for the micr
 
 ## PCB
 ![PCB Image](PCBImage.png)
-![PCB 3D View](PCB3DView.png)
+![PCB 3D View 1](PCB3DView1.png)
+![PCB 3D View 2](PCB3DView2.png)
+![PCB 3D View 3](PCB3DView3.png)
 
-The PCB was also designed in KiCad. I added some customisation on the silkscreen, by adding a title and the link to this repository.
+The PCB was also designed in KiCad. I added some customisation on the silkscreen, by adding a title and the link to this repository. The renders for the XIAO RP2040 and SK6812 MINI LEDs are also included in the above images.
 
 ## Case
 ![Assembled Case](Assembled3DView.png)
